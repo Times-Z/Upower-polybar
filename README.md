@@ -1,4 +1,4 @@
-# Vpn Polybar
+# Upower devices for Polybar
 Upower module for polybar to get power state of your devices
 
 ## Dependencies
